@@ -11,4 +11,4 @@ react-navigation集成redux
 说明（本项目并没有适配ios）
 项目截图大家可以看我仓库react-native-app那个项目https://github.com/cryingbat/react-native-app 里面，这个项目是在那个的基础上完善了redux的集成部分。
 
-觉得不错的，欢迎star。也欢迎fork。
+觉得不错的，欢迎star。也欢迎fork。在大家看这个项目的同时又什么问题也欢迎大家和我一起来讨论。共同进步
